@@ -10,5 +10,6 @@ Note: The final output might have a slightly different hash due to quantization 
 Images from wikipedia
 
 Concurrent work: https://github.com/anishathalye/neural-hash-collider
+More concurrent work: https://github.com/greentfrapp/apple-neuralhash-attack
 
 Pull requests to improve this repo welcome.
