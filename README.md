@@ -1,4 +1,4 @@
-# csam_collision
+# Neural Hash Collision Creator
 
 1. Use https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX to obtain the model and convert it to onnx.
 2. Use `onnx_tf` to convert the onnx model to tensorflow and save it in `model.pb`.
